@@ -1,4 +1,4 @@
-# Sass and CSS3: Sample Code
+# Foundation 6 Framework: Sample Code
 
 This is a sample code for the
 [*Foundation 6 Framework*](http://foundation.zurb.com/)
