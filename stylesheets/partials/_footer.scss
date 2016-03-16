@@ -1,0 +1,23 @@
+/**
+ * Cytonn Technologies
+ *
+ * @author: Ronnie Nyaga <rnyaga@cytonn.com>
+ *
+ * Project: foundation.app
+ *
+ */
+
+ @mixin my_margin($size){
+   margin: $size;
+ }
+ @mixin my_padding($size){
+   padding: $size;
+ }
+
+ footer{
+   @include my_margin(50px);
+   border-top: 1px solid #EEE;
+   p{
+     @include my_padding(20px);
+   }
+ }
